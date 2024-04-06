@@ -13,13 +13,21 @@ This game offers a fun and engaging experience. Its straightforward yet challeng
 Features of the game:
 
 -Control a blue rectangle character with arrow keys.
+
 -Collect green items while avoiding red obstacles.
+
 -"Game Speed" slider adjusts difficulty.
+
 -"Pause" button halts the game for strategic pauses.
+
 -"Restart" button resets the game for a fresh start.
+
 -Horizontal movement of items and obstacles.
+
 -Score increases with collected items.
+
 -Game ends if the character collides with a red obstacle.
+
 -Compact 600x400 game window for focused gameplay.
 
 
